@@ -2,7 +2,7 @@
 Releasing soon [ 98 Star remaining - 20 follow remaining ]
 ```go
 
-package Swtbot-source
+package Swtbot-source (free)
 
 func init() {
     var GITHUB := "@JNDEV03"
