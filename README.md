@@ -11,3 +11,8 @@ func init() {
     var RLEASE := "Releasing at 50 stars and 10 follows ⭐"
 }
 ```
+
+-----------------------
+<p align="center">
+<img src="https://cdn.discordapp.com/attachments/1013492039746334777/1056226199677964399/1521ec00519f6a29.png"/> </a> 
+</p>
